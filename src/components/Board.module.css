@@ -1,0 +1,8 @@
+.board{
+  background-color: #679186;
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 30px;
+}
