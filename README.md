@@ -6,8 +6,7 @@ Tic-tac-toe game.
 ___
 
 #### :link: Live Demo: 
-[SITE](https://slobodianiuk1.github.io/naughts-and-crosses
-/)
+[SITE](https://slobodianiuk1.github.io/naughts-and-crosses/)
 
 ___
 
